@@ -61,4 +61,4 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
 ![原画像](https://raw.githubusercontent.com/YoshiokaTetsurou/lecture_image_processing/master/image/kadai2_4.bmp)
 図4　8階調画像
 
-このように階調を増やすことで画像を滑らかに表現することができる。
+このように階調を増やすことで画像の濃淡を滑らかに表現することができる。
